@@ -1,4 +1,3 @@
-**简体中文** | **[English](README-en.md)** | **[Русский](README-ru.md)**
 # Gmeek
 
 一个博客框架，超轻量级个人博客模板。完全基于`Github Pages` 、 `Github Issues` 和 `Github Actions`。不需要本地部署，从搭建到写作，只需要18秒，2步搭建好博客，第3步就是写作。
@@ -11,7 +10,7 @@
 
 ### 安装
 
-1. 【创建仓库】点击[通过模板创建仓库](https://github.com/new?template_name=Gmeek-template&template_owner=Meekdai)，建议仓库名称为`XXX.github.io`，其中`XXX`为你的github用户名。
+1. 【创建仓库】点击[通过模板创建仓库](https://github.com/new?template_name=Gmeek-template&template_owner=fjvi)，建议仓库名称为`XXX.github.io`，其中`XXX`为你的github用户名。
 
 2. 【启用Pages】在仓库的`Settings`中`Pages->Build and deployment->Source`下面选择`Github Actions`。
 
@@ -34,11 +33,10 @@
 - 评论系统引入[utteranc.es](https://utteranc.es/)
 - 使用`jinja2`对html进行渲染，可通过模板自定义UI主题
 
-### 赞赏
+### 用途
 
-如果本项目对你有帮助，可以用微信赞赏一下作者，让项目有继续更新维护下去的动力，谢谢！
+瞎折腾
 
-![赞赏码](img/赞赏码.jpg)
 
 ### 鸣谢
 - [jinja2](https://jinja.palletsprojects.com/)
